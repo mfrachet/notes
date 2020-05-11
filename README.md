@@ -1,6 +1,6 @@
 # Personal notes
 
-- [Accessibility](./a11y)
-- [Craftsmanship](./craftsmanship)
-- [Performances](./performances)
-- [Design](./design)
+- [Accessibility](./a11y/README.md)
+- [Craftsmanship](./craftsmanship/README.md)
+- [Performances](./performances/README.md)
+- [Design](./design/README.md)
