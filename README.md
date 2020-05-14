@@ -1,5 +1,3 @@
-# Personal notes
-
 - [Accessibility](./a11y/README.md)
 - [Craftsmanship](./craftsmanship/README.md)
 - [Performances](./performances/README.md)
